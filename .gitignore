@@ -7,3 +7,6 @@ __pycache__/
 
 # pytest 缓存
 .pytest_cache/
+
+# 数据库文件
+*.db
