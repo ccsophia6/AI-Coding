@@ -1,0 +1,9 @@
+# 虚拟环境
+ai-env/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# pytest 缓存
+.pytest_cache/
